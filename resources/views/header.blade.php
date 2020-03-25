@@ -1,6 +1,6 @@
 
 
-    <section id="header" class="appear"></section>
+    <section id="header" class="appear">
     <div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(24, 101, 143, 0.7;) " data-300="line-height:60px; height:60px; background-color:rgba(24,101,143,0.9); ">
         <div class="container">
             <div class="navbar-header">
@@ -29,5 +29,6 @@
             <!--/.navbar-collapse -->
         </div>
     </div>
+    </section>
 
 
