@@ -1,7 +1,5 @@
 
 
-<!DOCTYPE html>
-<html class="no-js">
 <head>
     <!-- BASICS -->
     <meta charset="utf-8">
@@ -24,7 +22,6 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- skin -->
     <link rel="stylesheet" href="skin/default.css">
-    <script src="{{ asset('js/app.js') }}" defer></script>
 
 
     <!-- Facebook Pixel Code -->

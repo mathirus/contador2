@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-@include('head')
+@include('layouts.head')
 
 <body>
 <div id="app">
