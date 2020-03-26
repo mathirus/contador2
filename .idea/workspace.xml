@@ -122,7 +122,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -165,7 +165,7 @@
       <workItem from="1585151320066" duration="9164000" />
       <workItem from="1585163269152" duration="4802000" />
       <workItem from="1585228354408" duration="14456000" />
-      <workItem from="1585251328704" duration="261000" />
+      <workItem from="1585251328704" duration="615000" />
     </task>
     <servers />
   </component>
@@ -181,10 +181,10 @@
       <screen x="0" y="27" width="1366" height="700" />
     </state>
     <state x="416" y="125" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.700@0.27.1366.700" timestamp="1584996109733" />
-    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585163597726">
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585251941659">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
-    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1585163597726" />
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1585251941659" />
     <state x="172" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1585154238847">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
