@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf9f57a-5b20-4d0f-a1f8-7facabbfb02f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_03_25_000000_create_posts_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/blog/blog-component.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/landing/body.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/landing/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/landing/inicio-component.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/add-js.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/navbar.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/blog/BlogController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/InicioController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/InicioController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/blog-component.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/header-component.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/header-component.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog/blog.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/body.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/form.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/inicio.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/body.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/body.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/landing/inicio-component.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/landing/inicio-component.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/head.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,17 +130,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taxes2019" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/database/migrations" />
       <recent name="$PROJECT_DIR$/resources/js/components" />
       <recent name="$PROJECT_DIR$/app/Http/Controllers" />
       <recent name="$PROJECT_DIR$/resources/views" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views/blog" />
@@ -187,7 +171,8 @@
       <workItem from="1585143316677" duration="449000" />
       <workItem from="1585143804240" duration="7316000" />
       <workItem from="1585151320066" duration="9164000" />
-      <workItem from="1585163269152" duration="4065000" />
+      <workItem from="1585163269152" duration="4802000" />
+      <workItem from="1585228354408" duration="13485000" />
     </task>
     <servers />
   </component>
@@ -211,13 +196,13 @@
       <screen x="0" y="27" width="1366" height="700" />
     </state>
     <state x="172" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1585154238847" />
-    <state x="337" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1585163280526">
+    <state x="337" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1585228354815">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
-    <state x="337" y="203" key="com.intellij.ide.util.TipDialog/0.27.1366.700@0.27.1366.700" timestamp="1585163280526" />
-    <state x="347" y="165" key="run.anything.popup" timestamp="1585158969098">
+    <state x="337" y="203" key="com.intellij.ide.util.TipDialog/0.27.1366.700@0.27.1366.700" timestamp="1585228354815" />
+    <state x="347" y="165" key="run.anything.popup" timestamp="1585242521368">
       <screen x="0" y="27" width="1366" height="700" />
     </state>
-    <state x="347" y="165" key="run.anything.popup/0.27.1366.700@0.27.1366.700" timestamp="1585158969098" />
+    <state x="347" y="165" key="run.anything.popup/0.27.1366.700@0.27.1366.700" timestamp="1585242521368" />
   </component>
 </project>

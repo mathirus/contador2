@@ -23,7 +23,9 @@ Vue.component('inicio-component', require('../views/landing/inicio-component.vue
 Vue.component('header-component', require('./components/header-component.vue').default);
 Vue.component('blog-component', require('../views/blog/blog-component.vue').default);
 
-
+require("bootstrap-css-only/css/bootstrap.min.css");
+require("mdbvue/lib/css/mdb.min.css");
+require("@fortawesome/fontawesome-free/css/all.min.css");
 
 
 /**
